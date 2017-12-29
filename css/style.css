@@ -1,0 +1,30 @@
+/* 構造管理 */
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+
+/* footer */
+
+.footer-font {
+  font-size: 12px;
+  text-align: center;
+}
+
+/* css効いてるかのチェックのみのcss */
+
+.test-h1 {
+  color: red;
+
+}
+
+.test-p {
+  background-color: blue;
+}
